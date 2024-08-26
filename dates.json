@@ -1,0 +1,64 @@
+[ 
+    
+    {
+        "nombre" : "Carlos Avella",
+        "Cedula" : "1024025280",
+        "fecha": "1990-01-01",
+        "estatura": 1.75
+    },
+    {
+        "nombre": "Maria Gomez",
+        "cedula": "987654321",
+        "fecha": "1985-05-15",
+        "estatura": 1.65
+    },
+    {
+        "nombre": "Juan Perez",
+        "cedula": "123456789",
+        "fecha": "1990-01-01",
+        "estatura": 1.75
+    },
+    {
+        "nombre": "Sofia Ramirez",
+        "cedula": "333333333",
+        "fecha": "2000-04-04",
+        "estatura": 1.70
+    },
+    {
+        "nombre": "Gabriela Diaz",
+        "cedula": "555555555",
+        "fecha": "1994-06-22",
+        "estatura": 1.66
+    },
+    {
+        "nombre": "Fernando Morales",
+        "cedula": "666666666",
+        "fecha": "1999-11-11",
+        "estatura": 1.76
+    },
+    {
+        "nombre": "Laura Torres",
+        "cedula": "222222222",
+        "fecha": "2003-09-09",
+        "estatura": 1.72
+    },
+    {
+        "nombre": "Luis Fernandez",
+        "cedula": "111111111",
+        "fecha": "1995-12-12",
+        "estatura": 1.82
+    },
+    {
+        "nombre": "Juan Perez",
+        "cedula": "123456789",
+        "fecha": "1990-01-01",
+        "estatura": 1.75
+    },
+    {
+        "nombre": "Edwin Cárdenas",
+        "cedula": "725218521",
+        "fecha": "2002-07-17",
+        "estatura": 1.79
+    }
+
+]
